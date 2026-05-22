@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "horsefish.aternos.host",
+    "ip": " cardinalfish.aternos.host",
     "port": 46438,
     "version": "",
     "try-creative": false
