@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Goony",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BALLS-dZNU.aternos.me",
+    "ip": "horsefish.aternos.host",
     "port": 46438,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I love gooning",
+        "AHHH~",
+        "ITS COMING OUT!"
       ]
     },
     "chat-log": true,
